@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Remove jQuery Migrate
- * Plugin URI:  https://wordpress.org/plugins/remove-jquery-migrate/
+ * Plugin Name: d19 - Remove jQuery Migrate
+ * Plugin URI:  https://github.com/d19dotca/wordpress-plugin-remove_jquery_migrate
  * Description: This plugin removes the jQuery Migrate script from the front end of your site.
  * Version:     1.0.0
  * Author:      Dustin Dauncey
