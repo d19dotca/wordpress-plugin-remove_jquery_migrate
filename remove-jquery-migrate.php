@@ -10,7 +10,6 @@
  * License:     GPLv3
  */
 
-
 if ( ! function_exists( 'remove_jquery_migrate' ) ) {
 	function remove_jquery_migrate( $scripts ) {
 		if ( ! is_admin() && isset( $scripts->registered['jquery'] ) ) {
